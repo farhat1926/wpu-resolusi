@@ -2,5 +2,3 @@ Rencana in the content
 - sholat subuh
 - sholat dhuhur
 - sholat ashar
-- sholat magrib
-- sholat isya
